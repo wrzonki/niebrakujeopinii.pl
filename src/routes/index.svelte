@@ -1,5 +1,5 @@
 <div>
-  <img src="tvp.jpg" alt="background image" />
+  <img src="tvp.jpg" alt="background" />
   <h2>Strona w budowie</h2>
 </div>
 
